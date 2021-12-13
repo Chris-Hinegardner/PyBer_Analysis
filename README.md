@@ -3,7 +3,7 @@ MatPlotLib
 
 ## Overview
 
-This project aims to analyze Pyber rideshare data to reveal rider demographics and ride fare metrics by city. We use analysis and visualizations to create a roadmap for Pyber decision makers tp optimize their future business. 
+This project aims to analyze Pyber rideshare data to reveal rider data and ride fare metrics by city. We use analysis and visualizations to create a roadmap for Pyber decision makers tp optimize their future business. 
 
 ## Results
 
